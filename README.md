@@ -5,3 +5,5 @@ This repository is for the application I worked on for the Software Engineering/
 The System Request Specification is a document I wrote with my team which details the requirements of the application including use cases, feasibilty analysis, functional, structural, and behavioral modeling.
 
 The Detail Design Document is a document written with my team to describe the design of the application like the design of modules, databases, abstract data types, COMPRISES and USES diagrams. 
+
+The initial codes were written in Java using Object Oriented programming design. I also implemented various design patterns into this application including state, and 
