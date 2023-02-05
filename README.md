@@ -6,4 +6,4 @@ The System Request Specification is a document I wrote with my team which detail
 
 The Detail Design Document is a document written with my team to describe the design of the application like the design of modules, databases, abstract data types, COMPRISES and USES diagrams. 
 
-The initial codes were written in Java using Object Oriented programming design. I also implemented various design patterns into this application including state, and 
+The initial codes were written in Java using Object Oriented programming design. I also implemented various design patterns into this application including state design pattern to track the logged in or logged out state of the user, and the observer design pattern to notify the user when they have receieved a follow/friend request.
